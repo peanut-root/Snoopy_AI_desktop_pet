@@ -1,0 +1,52 @@
+{
+  "climb-1": {
+    "headX": 0.51818,
+    "headYFromBottom": 0.90453,
+    "supportX": 0.58379,
+    "supportYFromBottom": 0.02625
+  },
+  "climb-2": {
+    "headX": 0.51667,
+    "headYFromBottom": 0.75895,
+    "gripX": 0.49724,
+    "gripYFromBottom": 0.31026,
+    "supportX": 0.66298,
+    "supportYFromBottom": 0.02625
+  },
+  "climb-3": {
+    "headX": 0.5169,
+    "headYFromBottom": 0.98329,
+    "gripX": 0.39042,
+    "gripYFromBottom": 0.70644
+  },
+  "climb-4": {
+    "headX": 0.51733,
+    "headYFromBottom": 0.77566,
+    "gripX": 0.27624,
+    "gripYFromBottom": 0.4821
+  },
+  "climb-5": {
+    "headX": 0.51841,
+    "headYFromBottom": 0.90692,
+    "gripX": 0.32413,
+    "gripYFromBottom": 0.83771
+  },
+  "climb-6": {
+    "headX": 0.51803,
+    "headYFromBottom": 0.93317,
+    "gripX": 0.30755,
+    "gripYFromBottom": 0.80668
+  },
+  "climb-7": {
+    "headX": 0.51773,
+    "headYFromBottom": 0.6969,
+    "supportX": 0.43278,
+    "supportYFromBottom": 0.03103
+  },
+  "climb-8": {
+    "headX": 0.51733,
+    "headYFromBottom": 0.84248,
+    "supportX": 0.63536,
+    "supportYFromBottom": 0.03103
+  }
+}

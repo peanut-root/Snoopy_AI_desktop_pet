@@ -1,0 +1,13 @@
+.DS_Store
+.omx/
+*.log
+*.zip
+!dist/SnoopyDesktop-macOS-arm64.zip
+*.app/
+connection-token.txt
+**/connection-token.txt
+weather.json
+interaction-motion.json
+sleep-motion.json
+.swiftpm/
+.build/

@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "intervalSeconds": 600,
+  "city": "上海",
+  "admin1": "上海",
+  "country": "中国",
+  "latitude": 31.2304,
+  "longitude": 121.4737,
+  "timezone": "Asia/Shanghai"
+}

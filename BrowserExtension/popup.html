@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="popup.css"><title>Snoopy 桌宠连接器</title></head>
+<body>
+  <header><span class="mark">●</span><div><h1>Snoopy 桌宠</h1><p>让打字和晚饭舞跟上你的 GPT</p></div></header>
+  <section class="status"><span id="dot"></span><div><strong id="status">正在检查连接…</strong><p id="detail">请先打开 Snoopy Desktop.app</p></div></section>
+  <p class="hint">打开 ChatGPT 网页提问即可。生成中在狗屋上打字；全部完成后，查理布朗送晚饭。</p>
+  <div class="buttons"><button id="working">试试打字</button><button id="done">送晚饭</button></div>
+  <button id="refresh" class="quiet">重新检查连接</button>
+  <details id="pairing"><summary>设置连接口令</summary><p>首次使用时，右键桌宠选择「复制网页连接口令」，在这里粘贴并保存。口令只保存在本机。</p><input id="token" type="password" placeholder="粘贴连接口令" autocomplete="off"><button id="save">保存口令</button><p id="saveResult" role="status"></p></details>
+  <footer>仅连接本机 · 不读取或发送对话内容<br>支持 Chrome / Edge 的 ChatGPT 网页</footer>
+  <script src="popup.js"></script>
+</body></html>

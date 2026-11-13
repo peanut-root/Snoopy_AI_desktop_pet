@@ -1,0 +1,223 @@
+{
+  "canvas": [
+    251,
+    265
+  ],
+  "coordinate_system": "head anchors normalized x left-to-right and y bottom-to-top",
+  "opaque_height_target": 100,
+  "maximum_opaque_height": 253,
+  "frames": [
+    {
+      "name": "classic-01",
+      "head": [
+        0.4303,
+        0.883
+      ],
+      "opaque_bounds": [
+        11,
+        8,
+        238,
+        259
+      ]
+    },
+    {
+      "name": "classic-02",
+      "head": [
+        0.4303,
+        0.8943
+      ],
+      "opaque_bounds": [
+        9,
+        8,
+        237,
+        259
+      ]
+    },
+    {
+      "name": "classic-03",
+      "head": [
+        0.4303,
+        0.8868
+      ],
+      "opaque_bounds": [
+        15,
+        8,
+        240,
+        259
+      ]
+    },
+    {
+      "name": "classic-04",
+      "head": [
+        0.4303,
+        0.8906
+      ],
+      "opaque_bounds": [
+        15,
+        8,
+        239,
+        259
+      ]
+    },
+    {
+      "name": "classic-05",
+      "head": [
+        0.4303,
+        0.8906
+      ],
+      "opaque_bounds": [
+        7,
+        8,
+        242,
+        259
+      ]
+    },
+    {
+      "name": "classic-06",
+      "head": [
+        0.4303,
+        0.8943
+      ],
+      "opaque_bounds": [
+        11,
+        6,
+        245,
+        259
+      ]
+    },
+    {
+      "name": "classic-07",
+      "head": [
+        0.4303,
+        0.8792
+      ],
+      "opaque_bounds": [
+        12,
+        8,
+        241,
+        259
+      ]
+    },
+    {
+      "name": "classic-08",
+      "head": [
+        0.4263,
+        0.8906
+      ],
+      "opaque_bounds": [
+        7,
+        7,
+        239,
+        259
+      ]
+    },
+    {
+      "name": "classic-09",
+      "head": [
+        0.4263,
+        0.8755
+      ],
+      "opaque_bounds": [
+        7,
+        8,
+        243,
+        259
+      ]
+    },
+    {
+      "name": "classic-10",
+      "head": [
+        0.4303,
+        0.8792
+      ],
+      "opaque_bounds": [
+        9,
+        11,
+        239,
+        259
+      ]
+    },
+    {
+      "name": "classic-11",
+      "head": [
+        0.4263,
+        0.8792
+      ],
+      "opaque_bounds": [
+        10,
+        10,
+        241,
+        259
+      ]
+    },
+    {
+      "name": "classic-12",
+      "head": [
+        0.4303,
+        0.883
+      ],
+      "opaque_bounds": [
+        6,
+        9,
+        243,
+        259
+      ]
+    },
+    {
+      "name": "classic-13",
+      "head": [
+        0.4303,
+        0.8792
+      ],
+      "opaque_bounds": [
+        12,
+        8,
+        239,
+        259
+      ]
+    },
+    {
+      "name": "classic-14",
+      "head": [
+        0.4303,
+        0.8717
+      ],
+      "opaque_bounds": [
+        16,
+        8,
+        245,
+        259
+      ]
+    },
+    {
+      "name": "classic-15",
+      "head": [
+        0.4303,
+        0.8868
+      ],
+      "opaque_bounds": [
+        13,
+        9,
+        244,
+        259
+      ]
+    },
+    {
+      "name": "classic-16",
+      "head": [
+        0.4303,
+        0.8906
+      ],
+      "opaque_bounds": [
+        12,
+        8,
+        240,
+        259
+      ]
+    }
+  ],
+  "recommended_box_for100_opaque_height": [
+    99.209,
+    104.743
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Snoopy · ChatGPT 桌宠连接器",
+  "version": "1.1.0",
+  "description": "把本机 ChatGPT 网页的生成状态发送给 Snoopy 桌宠。不会读取或发送对话内容。",
+  "permissions": ["storage"],
+  "host_permissions": ["http://127.0.0.1:47831/*"],
+  "background": { "service_worker": "background.js" },
+  "content_scripts": [{
+    "matches": ["https://chatgpt.com/*", "https://chat.openai.com/*"],
+    "js": ["content.js"],
+    "run_at": "document_idle"
+  }],
+  "action": { "default_title": "Snoopy 桌宠连接器", "default_popup": "popup.html" }
+}

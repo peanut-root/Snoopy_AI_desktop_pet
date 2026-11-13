@@ -1,0 +1,64 @@
+{
+  "sleep-1": {
+    "supportYFromBottom": 0.26666666666666666,
+    "headX": 0.18333333333333332,
+    "headYFromBottom": 0.6083333333333333,
+    "bellyX": 0.5833333333333334,
+    "bellyYFromBottom": 0.4816666666666667
+  },
+  "sleep-2": {
+    "supportYFromBottom": 0.26666666666666666,
+    "headX": 0.18333333333333332,
+    "headYFromBottom": 0.6083333333333333,
+    "bellyX": 0.5833333333333334,
+    "bellyYFromBottom": 0.4866666666666667
+  },
+  "sleep-3": {
+    "supportYFromBottom": 0.26666666666666666,
+    "headX": 0.18333333333333332,
+    "headYFromBottom": 0.6083333333333333,
+    "bellyX": 0.5833333333333334,
+    "bellyYFromBottom": 0.49833333333333335
+  },
+  "sleep-4": {
+    "supportYFromBottom": 0.26666666666666666,
+    "headX": 0.18333333333333332,
+    "headYFromBottom": 0.6083333333333333,
+    "bellyX": 0.5833333333333334,
+    "bellyYFromBottom": 0.47833333333333333
+  },
+  "wake-1": {
+    "supportYFromBottom": 0.26666666666666666,
+    "headX": 0.17166666666666666,
+    "headYFromBottom": 0.595,
+    "bellyX": 0.5833333333333334,
+    "bellyYFromBottom": 0.465
+  },
+  "wake-2": {
+    "supportYFromBottom": 0.26666666666666666,
+    "headX": 0.28251256281407033,
+    "headYFromBottom": 0.735,
+    "bellyX": 0.6333333333333333,
+    "bellyYFromBottom": 0.45166666666666666
+  },
+  "wake-3": {
+    "supportYFromBottom": 0.26666666666666666,
+    "headX": 0.3667637540453075,
+    "headYFromBottom": 0.8483333333333334
+  },
+  "wake-4": {
+    "supportYFromBottom": 0.26666666666666666,
+    "headX": 0.4335047619047619,
+    "headYFromBottom": 0.905
+  },
+  "wake-5": {
+    "supportYFromBottom": 0.26666666666666666,
+    "headX": 0.45666666666666667,
+    "headYFromBottom": 0.9316666666666666
+  },
+  "wake-6": {
+    "supportYFromBottom": 0.26666666666666666,
+    "headX": 0.457384370015949,
+    "headYFromBottom": 0.9083333333333333
+  }
+}
